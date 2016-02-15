@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="org.neo4j:neo4j-utils:1.2-1.2.M02" type="repository">
+    <properties maven-id="org.neo4j:neo4j-utils:1.2-1.2.M02" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/neo4j-utils-1.2-1.2.M02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/neo4j-kernel-1.2-1.2.M02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/geronimo-jta_1.1_spec-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/neo4j-index-1.2-1.2.M02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.apache.servicemix.bundles.lucene-3.0.1_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

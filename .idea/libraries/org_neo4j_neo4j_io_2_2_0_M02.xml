@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.neo4j:neo4j-io:2.2.0-M02" type="repository">
+    <properties maven-id="org.neo4j:neo4j-io:2.2.0-M02" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/neo4j-io-2.2.0-M02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/neo4j-primitive-collections-2.2.0-M02.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
